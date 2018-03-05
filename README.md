@@ -1,3 +1,9 @@
+## Student Info:
+Student: Andrew Taylor
+Email: andrewt929@gmail.com
+Assignment Name: Exploritory Data Analysis, Project 1
+
+
 ## Introduction
 
 This assignment uses data from
